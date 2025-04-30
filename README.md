@@ -17,3 +17,9 @@ Team Members:
 
 1. Keluangman
 2. Cicakman
+
+## Team PSC
+
+1. Diana
+2. Sarah
+3. Deena
