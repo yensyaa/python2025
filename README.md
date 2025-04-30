@@ -11,12 +11,9 @@ Team Members:
 1. Chan Ju Ping
 2. OJJ
 
-## Team Anime Malaysia
+Project Repository:
 
-Team Members:
-
-1. Keluangman
-2. Cicakman
+https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
    
 ## Team A1d1l
 
@@ -35,13 +32,8 @@ Team Members:
 2. Sarah
 3. Deena
 
-
-
-
-
-
-
 ## Team MALYA
 
 1. Sumaiyah
 2. Alya
+
