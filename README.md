@@ -19,4 +19,18 @@ Team Members:
 2. Cicakman
    
 ## Team A1d1l
+
 1.Aidil
+
+## KPDBOYZ
+
+1. Arveen
+2. Adam
+3. Aiman
+4. Syamer
+
+## Team PSC
+
+1. Diana
+2. Sarah
+3. Deena
