@@ -11,6 +11,10 @@ Team Members:
 1. Chan Ju Ping
 2. OJJ
 
+Project Repository:
+
+https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
+
 ## Team Anime Malaysia
 
 Team Members:
