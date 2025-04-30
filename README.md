@@ -17,10 +17,12 @@ Team Members:
 
 1. Keluangman
 2. Cicakman
-   
-## Team A1d1l
 
-1.Aidil
+## Team PSC
+
+1. Diana
+2. Sarah
+3. Deena
 
 ## KPDBOYZ
 
@@ -29,8 +31,7 @@ Team Members:
 3. Aiman
 4. Syamer
 
-## Team PSC
 
-1. Diana
-2. Sarah
-3. Deena
+
+## Team CYC
+1. Cho Yi Ching
