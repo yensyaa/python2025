@@ -30,3 +30,9 @@ Team Members:
 2. Adam
 3. Aiman
 4. Syamer
+
+## PENGAWAS SEKOLAH
+
+1.Syahmi
+2.Azwafi
+   
