@@ -14,13 +14,6 @@ Team Members:
 Project Repository:
 
 https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
-
-## Team Anime Malaysia
-
-Team Members:
-
-1. Keluangman
-2. Cicakman
    
 ## Team A1d1l
 
