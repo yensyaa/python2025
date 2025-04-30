@@ -17,12 +17,10 @@ Team Members:
 
 1. Keluangman
 2. Cicakman
+   
+## Team A1d1l
 
-## Team PSC
-
-1. Diana
-2. Sarah
-3. Deena
+1.Aidil
 
 ## KPDBOYZ
 
@@ -34,5 +32,11 @@ Team Members:
 ## PENGAWAS SEKOLAH
 
 1.Syahmi
-2.Azwafi
-   
+2.Azwafi 
+
+## Team PSC
+
+1. Diana
+2. Sarah
+3. Deena
+
