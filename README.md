@@ -25,6 +25,11 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 1. Raja
 2. Niesa
 
+## Hello Kitty
+
+1. Foh Wei Yang
+2. Santhiya
+
 ## IWannaMarryAIWaifu
 
 1. Woon Yi Heng
@@ -70,6 +75,7 @@ Team Members:
 
 1. Sumaiyah
 2. Alya
+
 
 ## VOCASEP 
 1. Ku Aliff
