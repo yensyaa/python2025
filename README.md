@@ -26,8 +26,6 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 3. Aiman
 4. Syamer
 
-## Team PSC
-
-1. Diana
-2. Sarah
-3. Deena
+## PasirianBos
+1.Lutfi
+2.Afif
