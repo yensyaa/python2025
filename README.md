@@ -41,8 +41,13 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 4. Syamer
 
 ## PasirianBos
-1.Lutfi
-2.Afif
+1. Lutfi
+2. Afif
+
+## tungtungsahur
+
+1. Anwar
+2. Helini
 
 ## VOCASEP 
 1. Ku Aliff
