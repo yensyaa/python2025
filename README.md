@@ -19,6 +19,11 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 
 1.Aidil
 
+## The Dream Team
+
+1. Raja
+2. Niesa
+
 ## KPDBOYZ
 
 1. Arveen
