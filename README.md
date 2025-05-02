@@ -14,6 +14,8 @@ Once Upon a Code: Malaysian Legends Reimagined
 
 4. Use the images in a short video. The video must be 10 seconds or less in length, and uploaded to any video hosting provider that does not require logging in to watch; e.g. TikTok or YouTube.
 
+5. Make modifications to the repository of your ComfyUI fork that improves on your workflow, with particular attention paid to the parts relevant to Python. Submit the URL of that fork alongside the original images used in the videos.
+
 # Teams
 
 ## Georgetown Technology Solutions
