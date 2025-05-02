@@ -25,6 +25,11 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 1. Raja
 2. Niesa
 
+## IWannaMarryAIWaifu
+
+1. Woon Yi Heng
+2. Bong Jie Sheng
+
 ## joker
 
 Team Members:
