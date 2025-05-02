@@ -32,6 +32,11 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 3. Aiman
 4. Syamer
 
+## PENGAWAS SEKOLAH
+
+1. Syahmi
+2. Azwafi 
+
 ## PasirianBos
 1. Lutfi
 2. Afif
