@@ -14,17 +14,23 @@ Team Members:
 Project Repository:
 
 https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
-
-## Team Anime Malaysia
-
-Team Members:
-
-1. Keluangman
-2. Cicakman
    
 ## Team A1d1l
 
-1.Aidil
+## Team CYC
+1. Cho Yi Ching
+
+## The Dream Team
+
+1. Raja
+2. Niesa
+
+## joker
+
+Team Members:
+
+1. Fattah
+2. Khirthiken
 
 ## KPDBOYZ
 
@@ -33,15 +39,25 @@ Team Members:
 3. Aiman
 4. Syamer
 
-## Team PSC
+## PENGAWAS SEKOLAH
 
-1. Diana
-2. Sarah
-3. Deena
+1. Syahmi
+2. Azwafi 
 
-## joker
+## PasirianBos
+1. Lutfi
+2. Afif
 
-Team Members:
+## tungtungsahur
 
-1. Fattah
-2. Khirthiken
+1. Anwar
+2. Helini
+
+## Team MALYA
+
+1. Sumaiyah
+2. Alya
+
+## VOCASEP 
+1. Ku Aliff
+2. Luqman Hakim
