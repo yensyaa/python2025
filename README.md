@@ -13,20 +13,12 @@ Team Members:
 
 Project Repository:
 
-Team Members:
-
-1. Keluangman
-2. Cicakman
-=======
 https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
    
 ## Team A1d1l
 
-## Team PSC
-
-1. Diana
-2. Sarah
-3. Deena
+## Team CYC
+1. Cho Yi Ching
 
 ## The Dream Team
 
