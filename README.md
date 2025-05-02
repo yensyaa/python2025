@@ -2,6 +2,18 @@
 
 These are the students and their projects for the Penang Science Cluster's Python 2025 Advance Workshop.
 
+# Objective
+
+1. Fork and install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) the manual way.
+
+2. Download and place [this exact model](https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0/blob/main/Illustrious-XL-v0.1-GUIDED.safetensors) into the appropriate folder.
+
+3. Generate images according to our theme for Python this year: <p align="center">
+Once Upon a Code: Malaysian Legends Reimagined
+</p>
+
+4. Use the images in a short video. The video must be 10 seconds or less in length, and uploaded to any video hosting provider that does not require logging in to watch; e.g. TikTok or YouTube.
+
 # Teams
 
 ## Georgetown Technology Solutions
