@@ -17,7 +17,34 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
    
 ## Team A1d1l
 
-1.Aidil
+## Team CYC
+1. Cho Yi Ching
+
+## The Dream Team
+
+1. Raja
+2. Niesa
+
+## Hello Kitty
+
+1. Foh Wei Yang
+2. Santhiya
+
+## IWannaMarryAIWaifu
+
+1. Woon Yi Heng
+2. Bong Jie Sheng
+
+## team jjjj
+
+1.sjsj
+
+## joker
+
+Team Members:
+
+1. Fattah
+2. Khirthiken
 
 ## KPDBOYZ
 
@@ -26,13 +53,30 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 3. Aiman
 4. Syamer
 
-## Team PSC
+## Team ManMakan
 
-1. Diana
-2. Sarah
-3. Deena
+1. Iman
 
-## Hello Kitty
+## PENGAWAS SEKOLAH
 
-1.Foh Wei Yang
-2.Santhiya
+1. Syahmi
+2. Azwafi 
+
+## PasirianBos
+1. Lutfi
+2. Afif
+
+## tungtungsahur
+
+1. Anwar
+2. Helini
+
+## Team MALYA
+
+1. Sumaiyah
+2. Alya
+
+
+## VOCASEP 
+1. Ku Aliff
+2. Luqman Hakim
