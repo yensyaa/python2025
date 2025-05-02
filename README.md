@@ -46,6 +46,11 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 1. Anwar
 2. Helini
 
+## Team MALYA
+
+1. Sumaiyah
+2. Alya
+
 ## VOCASEP 
 1. Ku Aliff
 2. Luqman Hakim
