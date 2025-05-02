@@ -25,6 +25,13 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 1. Raja
 2. Niesa
 
+## joker
+
+Team Members:
+
+1. Fattah
+2. Khirthiken
+
 ## KPDBOYZ
 
 1. Arveen
