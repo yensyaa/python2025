@@ -17,7 +17,13 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
    
 ## Team A1d1l
 
-1.Aidil
+## Team CYC
+1. Cho Yi Ching
+
+## The Dream Team
+
+1. Raja
+2. Niesa
 
 ## KPDBOYZ
 
@@ -26,14 +32,25 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 3. Aiman
 4. Syamer
 
-## Team PSC
+## PENGAWAS SEKOLAH
 
-1. Diana
-2. Sarah
-3. Deena
+1. Syahmi
+2. Azwafi 
+
+## PasirianBos
+1. Lutfi
+2. Afif
+
+## tungtungsahur
+
+1. Anwar
+2. Helini
 
 ## Team MALYA
 
 1. Sumaiyah
 2. Alya
 
+## VOCASEP 
+1. Ku Aliff
+2. Luqman Hakim
