@@ -37,7 +37,7 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 
 ## team jjjj
 
-1.sjsj
+1. sjsj
 
 ## joker
 
@@ -52,6 +52,10 @@ Team Members:
 2. Adam
 3. Aiman
 4. Syamer
+
+## team lala
+
+1. iron
 
 ## Team ManMakan
 
@@ -75,7 +79,6 @@ Team Members:
 
 1. Sumaiyah
 2. Alya
-
 
 ## VOCASEP 
 1. Ku Aliff
