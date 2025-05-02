@@ -28,6 +28,11 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 2. Sarah
 3. Deena
 
+## The Dream Team
+
+1. Raja
+2. Niesa
+
 ## KPDBOYZ
 
 1. Arveen
@@ -35,13 +40,9 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 3. Aiman
 4. Syamer
 
-=======
-1. Diana
-2. Sarah
-3. Deena
-
-
-
+## PasirianBos
+1.Lutfi
+2.Afif
 
 ## VOCASEP 
 1. Ku Aliff
