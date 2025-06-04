@@ -79,6 +79,10 @@ Team Members:
 ## PasirianBos
 1. Lutfi
 2. Afif
+Project Repo :
+https://github.com/Lutpi110/ComfyUI.git
+Video AI link:
+https://youtube.com/shorts/HJkFt1bNQLg?feature=share
 
 ## tungtungsahur
 
