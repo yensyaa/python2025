@@ -30,6 +30,11 @@ Project Repository:
 https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
    
 ## Team A1d1l
+1. Aidil
+
+Project Repository:
+
+https://github.com/aidilmuz/ComfyUI.git
 
 ## Team CYC
 1. Cho Yi Ching
