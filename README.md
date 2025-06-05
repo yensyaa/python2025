@@ -17,18 +17,7 @@ Once Upon a Code: Malaysian Legends Reimagined
 5. Make modifications to the repository of your ComfyUI fork that improves on your workflow, with particular attention paid to the parts relevant to Python. Submit the URL of that fork alongside the original images used in the videos.
 
 # Teams
-
-## Georgetown Technology Solutions
-
-Team Members: 
-
-1. Chan Ju Ping
-2. OJJ
-
-Project Repository:
-
-https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
-   
+  
 ## Team A1d1l
 
 ## Team CYC
