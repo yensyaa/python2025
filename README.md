@@ -82,6 +82,15 @@ Team Members:
 ## PasirianBos
 1. Lutfi
 2. Afif
+   OIl MAN(ORANG MINYAK)
+   
+Project Repository:
+
+https://github.com/Lutpi110/ComfyUI.git
+
+Video:
+
+https://youtube.com/shorts/HJkFt1bNQLg
 
 ## tungtungsahur
 
