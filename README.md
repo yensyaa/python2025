@@ -80,10 +80,14 @@ Team Members:
 1. Lutfi
 2. Afif
    OIl MAN(ORANG MINYAK)
-Project Repo :
+   
+Project Repository:
+
 https://github.com/Lutpi110/ComfyUI.git
-Video AI link:
-https://youtube.com/shorts/HJkFt1bNQLg?feature=share
+
+Video:
+
+https://youtube.com/shorts/HJkFt1bNQLg
 
 ## tungtungsahur
 
