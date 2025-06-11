@@ -77,10 +77,6 @@ Project Repository:
 
 https://github.com/Lutpi110/ComfyUI.git
 
-Video:
-
-https://youtube.com/shorts/HJkFt1bNQLg
-
 ## tungtungsahur
 
 1. Anwar
