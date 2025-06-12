@@ -2,6 +2,8 @@
 
 These are the students and their projects for the Penang Science Cluster's Python 2025 Advance Workshop.
 
+The grading rubric to be used with descriptions of how the points are awarded can be found [here](https://github.com/PenangScienceCluster/python2025/wiki/Grading-Rubric). The judges reserve the right to modify the scoring system should anything unforeseen outside of the written criteria arise.
+
 # Objective
 
 1. Fork and install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) the manual way.
