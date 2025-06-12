@@ -79,7 +79,7 @@ Project Repository:
 
 https://github.com/Lutpi110/ComfyUI.git
 
-Videi link:
+Video link:
 https://youtu.be/9oK6ZbXbCcI?si=UmIQ2qhXZqKUQmD7
 
 ## tungtungsahur
