@@ -2,6 +2,8 @@
 
 These are the students and their projects for the Penang Science Cluster's Python 2025 Advance Workshop.
 
+The grading rubric to be used with descriptions of how the points are awarded can be found [here](https://github.com/PenangScienceCluster/python2025/wiki/Grading-Rubric). The judges reserve the right to modify the scoring system should anything unforeseen outside of the written criteria arise.
+
 # Objective
 
 1. Fork and install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) the manual way.
@@ -17,18 +19,7 @@ Once Upon a Code: Malaysian Legends Reimagined
 5. Make modifications to the repository of your ComfyUI fork that improves on your workflow, with particular attention paid to the parts relevant to Python. Submit the URL of that fork alongside the original images used in the videos.
 
 # Teams
-
-## Georgetown Technology Solutions
-
-Team Members: 
-
-1. Chan Ju Ping
-2. OJJ
-
-Project Repository:
-
-https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
-   
+  
 ## Team A1d1l
 1. Aidil
 
@@ -38,6 +29,9 @@ https://github.com/aidilmuz/ComfyUI.git
 
 ## Team CYC
 1. Cho Yi Ching
+
+## FUTURISTIC
+1. BEH JIN MIN
 
 ## The Dream Team
 
@@ -84,6 +78,11 @@ Team Members:
 ## PasirianBos
 1. Lutfi
 2. Afif
+   OIl MAN(ORANG MINYAK)
+   
+Project Repository:
+
+https://github.com/Lutpi110/ComfyUI.git
 
 ## tungtungsahur
 
