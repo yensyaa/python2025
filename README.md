@@ -109,3 +109,10 @@ https://vt.tiktok.com/ZSkqGuHyc/
 ## VOCASEP 
 1. Ku Aliff
 2. Luqman Hakim
+
+## NEXTGEN Coders
+1.Nasrullah
+2.Yaashnavasiin
+
+Project Repository:
+https://github.com/07MNasrullah/ComfyUI.git
