@@ -84,7 +84,8 @@ Project Repository:
 
 https://github.com/Lutpi110/ComfyUI.git
 
-Video link:
+Video Link:
+
 https://youtu.be/9oK6ZbXbCcI
 
 ## tungtungsahur
@@ -98,9 +99,11 @@ https://youtu.be/9oK6ZbXbCcI
 2. Alya
    
 Project Repository:
+
 https://github.com/alyakhryna21/ComfyUI.git
 
-Video link:
+Video Link:
+
 https://vt.tiktok.com/ZSkqGuHyc/
 
 ## VOCASEP 
