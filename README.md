@@ -92,10 +92,16 @@ https://youtu.be/9oK6ZbXbCcI
 1. Anwar
 2. Helini
 
-## Team MALYA
+## PasirianGirls 
 
 1. Sumaiyah
 2. Alya
+   
+Project Repository:
+https://github.com/alyakhryna21/ComfyUI.git
+
+Video link:
+https://vt.tiktok.com/ZSkqGuHyc/
 
 ## VOCASEP 
 1. Ku Aliff
