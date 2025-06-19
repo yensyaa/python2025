@@ -111,8 +111,11 @@ https://vt.tiktok.com/ZSkqGuHyc/
 2. Luqman Hakim
 
 ## NEXTGEN Coders
-1.Nasrullah
-2.Yaashnavasiin
+1. Nasrullah
+2. Yaashnavasiin
 
 Project Repository:
 https://github.com/07MNasrullah/ComfyUI.git
+
+Video Link:
+https://youtube.com/shorts/5r9HhsZwd6s?si=xMIScT4462bsjDaS
