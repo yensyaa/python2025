@@ -119,3 +119,17 @@ https://github.com/07MNasrullah/ComfyUI.git
 
 Video Link:
 https://youtube.com/shorts/5r9HhsZwd6s?si=xMIScT4462bsjDaS
+
+## LUNARIAN 
+
+1. Fazreen
+2. Dian
+
+Project Repository:
+
+https://github.com/yensyaa/python2025.git
+
+Video Link:
+
+https://vt.tiktok.com/ZSkG2Pghu/
+
