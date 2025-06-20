@@ -119,3 +119,10 @@ https://github.com/07MNasrullah/ComfyUI.git
 
 Video Link:
 https://youtube.com/shorts/5r9HhsZwd6s?si=xMIScT4462bsjDaS
+
+## Pie Team
+1. Sim Joshua
+2. Lim Jit Sin
+
+Video Link :
+https://youtu.be/IqCHjFhZZNI
