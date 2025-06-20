@@ -62,6 +62,19 @@ Team Members:
 3. Aiman
 4. Syamer
 
+## LUNARIAN 
+
+1. Fazreen
+2. Dian
+
+Project Repository:
+
+https://github.com/yensyaa/python2025.git
+
+Video Link:
+
+https://vt.tiktok.com/ZSkG2Pghu/
+
 ## team lala
 
 1. iron
@@ -106,6 +119,14 @@ Video Link:
 
 https://vt.tiktok.com/ZSkqGuHyc/
 
+## Pie Team
+1. Sim Joshua
+2. Lim Jit Sin
+
+Video Link :
+
+https://youtu.be/IqCHjFhZZNI
+
 ## VOCASEP 
 1. Ku Aliff
 2. Luqman Hakim
@@ -119,17 +140,3 @@ https://github.com/07MNasrullah/ComfyUI.git
 
 Video Link:
 https://youtube.com/shorts/5r9HhsZwd6s?si=xMIScT4462bsjDaS
-
-## LUNARIAN 
-
-1. Fazreen
-2. Dian
-
-Project Repository:
-
-https://github.com/yensyaa/python2025.git
-
-Video Link:
-
-https://vt.tiktok.com/ZSkG2Pghu/
-
